@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vue-cli-service build",
-    "start": "vue-cli-service serve",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
